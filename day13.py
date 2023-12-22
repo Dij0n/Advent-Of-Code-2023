@@ -1,0 +1,1 @@
+with open ("Inputs/day13.txt") as file: lines = file.readlines()
